@@ -1,8 +1,8 @@
 {
-  "homepage": "http://sressscodes.github.io/Tic-Tac-Toe-React-Web-Game",
   "name": "react-essentials-deep-dive-adv",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sressscodes.github.io/react-test-github",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -28,3 +28,4 @@
     "vite": "^4.4.5"
   }
 }
+    
